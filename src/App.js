@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import './App.css';
-let defaultStyle = {color:'black'};
+let defaultStyle = {color:'white'};
 
 class Aggregate extends Component {
   render(){
